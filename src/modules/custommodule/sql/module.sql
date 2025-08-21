@@ -1,0 +1,1 @@
+-- This should contain the SQL commands to create the necessary database tables and indexes for your indexing module
